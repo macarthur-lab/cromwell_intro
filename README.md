@@ -2,9 +2,10 @@
 
 Prereqs:
 
-1. Make sure you have java v1.8 or higher
-2. Create an account on [DockerHub](https://hub.docker.com)
-2. Install Docker from https://hub.docker.com/editions/community/docker-ce-desktop-mac
+1. make sure you have java v1.8 or higher
+2. create an account on [DockerHub](https://hub.docker.com)
+3. install Docker from https://hub.docker.com/editions/community/docker-ce-desktop-mac
+4. clone this repo and cd to it
 
 To get started with docker:
 
